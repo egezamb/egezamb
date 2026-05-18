@@ -27,6 +27,7 @@ I treat the terminal as my second home, find automation genuinely interesting, a
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
 **DevOps & Tooling**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -49,6 +50,7 @@ I treat the terminal as my second home, find automation genuinely interesting, a
 
 | Repo | What it is | Stack |
 |------|------------|-------|
+| ☁️ [**aws-terraform-starter**](https://github.com/egezamb/aws-terraform-starter) | Production-ready Terraform starter — VPC + EC2 + S3 with secure defaults and CI | Terraform · AWS · GitHub Actions |
 | 🚀 [**ege-portfolio-2025**](https://github.com/egezamb/ege-portfolio-2025) | My personal portfolio site (3 languages: TR / PL / EN) | Next.js 14 · TypeScript · Tailwind |
 | ⚙️ [**calculator-pytest-cicd**](https://github.com/egezamb/calculator-pytest-cicd) | Python module with pytest + GitHub Actions CI/CD pipeline | Python · pytest · GitHub Actions |
 | 🔀 [**git-cicd-project**](https://github.com/egezamb/git-cicd-project) | Real Git workflows: branching, hooks, conflict resolution, CI | Git · Bash · GitHub Actions |
@@ -60,8 +62,9 @@ I treat the terminal as my second home, find automation genuinely interesting, a
 
 ### Currently
 
-- 📚 Working through **Terraform** fundamentals and **Kubernetes** basics
-- ☁️ Deepening AWS knowledge — eyeing the **AWS Cloud Practitioner** certification
+- 🚧 Just shipped my **[aws-terraform-starter](https://github.com/egezamb/aws-terraform-starter)** — Terraform-deployed VPC + EC2 + S3 with CI
+- 📚 Going deeper on **Kubernetes** basics next
+- ☁️ Eyeing the **AWS Cloud Practitioner** certification
 - 🛠️ Building small DevOps tools in my free time
 - 🎯 **Open to junior cloud / DevOps / cloud support roles** — Wrocław, hybrid, or fully remote
 
