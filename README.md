@@ -69,8 +69,9 @@ I treat the terminal as my second home, find automation genuinely interesting, a
 
 ### Connect
 
+- 📧 Email: **egezambelli@protonmail.com**
 - 🌐 Portfolio: [ege-portfolio-2025](https://github.com/egezamb/ege-portfolio-2025)
-- 💼 LinkedIn: *(coming soon)*
-- 📧 Email: *(open to opportunities — see profile)*
+- 💼 LinkedIn: linkedin.com/in/egezambelli
+- 📍 Based in Wrocław, Poland (open to remote across Europe)
 
 <p align="center"><em>Built with care · 2026</em></p>
