@@ -50,6 +50,7 @@ I treat the terminal as my second home, find automation genuinely interesting, a
 
 | Repo | What it is | Stack |
 |------|------------|-------|
+| λ [**aws-lambda-terraform-lab**](https://github.com/egezamb/aws-lambda-terraform-lab) | University Lambda lab rebuilt as full IaC — EC2 stopper schedule + greeter exposed via Function URL, HTTP API & REST API | Terraform · AWS Lambda · API Gateway · Python |
 | ☁️ [**aws-terraform-starter**](https://github.com/egezamb/aws-terraform-starter) | Production-ready Terraform starter — VPC + EC2 + S3 with secure defaults and CI | Terraform · AWS · GitHub Actions |
 | 🚀 [**ege-portfolio-2025**](https://github.com/egezamb/ege-portfolio-2025) | My personal portfolio site (3 languages: TR / PL / EN) | Next.js 14 · TypeScript · Tailwind |
 | ⚙️ [**calculator-pytest-cicd**](https://github.com/egezamb/calculator-pytest-cicd) | Python module with pytest + GitHub Actions CI/CD pipeline | Python · pytest · GitHub Actions |
@@ -62,7 +63,8 @@ I treat the terminal as my second home, find automation genuinely interesting, a
 
 ### Currently
 
-- 🚧 Just shipped my **[aws-terraform-starter](https://github.com/egezamb/aws-terraform-starter)** — Terraform-deployed VPC + EC2 + S3 with CI
+- 🚧 Just shipped **[aws-lambda-terraform-lab](https://github.com/egezamb/aws-lambda-terraform-lab)** — full university Lambda lab rebuilt as Terraform IaC
+- ⚡ Comfortable now with **Lambda + EventBridge Scheduler + API Gateway** (HTTP API v2 *and* REST API v1)
 - 📚 Going deeper on **Kubernetes** basics next
 - ☁️ Eyeing the **AWS Cloud Practitioner** certification
 - 🛠️ Building small DevOps tools in my free time
