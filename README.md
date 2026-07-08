@@ -13,4 +13,4 @@ open_to   = junior cloud / DevOps roles, remote-friendly
 contact   = egezambelli@protonmail.com
 ```
 
-Public repos worth a look: [cloud-infrastructure](https://github.com/egezamb/cloud-infrastructure) (case studies) · [aws-terraform-starter](https://github.com/egezamb/aws-terraform-starter) · [aws-lambda-terraform-lab](https://github.com/egezamb/aws-lambda-terraform-lab) · [spacefit](https://github.com/egezamb/spacefit)
+Public repos worth a look: [prod-saas-aws](https://github.com/egezamb/prod-saas-aws) (full AWS production reference) · [cloud-infrastructure](https://github.com/egezamb/cloud-infrastructure) (case studies) · [aws-terraform-starter](https://github.com/egezamb/aws-terraform-starter) · [aws-lambda-terraform-lab](https://github.com/egezamb/aws-lambda-terraform-lab)
