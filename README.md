@@ -1,16 +1,16 @@
 ### Ege Zambelli
 
-Junior Cloud / DevOps engineer in Wrocław. I build and run infrastructure —
-Terraform on AWS, Docker, CI/CD — including a SaaS I keep live in production.
+I build and ship SaaS products end-to-end, and go deep on the cloud side.
+Terraform on AWS, Docker, CI/CD — plus the full stack around it. One runs live in production.
 
 ```ini
-role      = Junior Cloud / DevOps Engineer
+role      = Cloud / DevOps engineer · full-stack builder
+niche     = cloud & infrastructure — Terraform · AWS · Docker · K8s · CI/CD
+building  = SaaS products, end-to-end (web + mobile)
 location  = Wrocław, PL  (authorized to work)
-stack     = Terraform · AWS · Docker · Kubernetes · CI/CD
 studying  = BSc Software Development, WSB Merito — 2027
-now       = operating a live Terraform-managed AWS SaaS
-open_to   = junior roles, remote-friendly
+open_to   = junior cloud / DevOps roles, remote-friendly
 contact   = egezambelli@protonmail.com
 ```
 
-Public repos worth a look: [aws-terraform-starter](https://github.com/egezamb/aws-terraform-starter) · [aws-lambda-terraform-lab](https://github.com/egezamb/aws-lambda-terraform-lab) · [spacefit](https://github.com/egezamb/spacefit)
+Public repos worth a look: [cloud-infrastructure](https://github.com/egezamb/cloud-infrastructure) (case studies) · [aws-terraform-starter](https://github.com/egezamb/aws-terraform-starter) · [aws-lambda-terraform-lab](https://github.com/egezamb/aws-lambda-terraform-lab) · [spacefit](https://github.com/egezamb/spacefit)
