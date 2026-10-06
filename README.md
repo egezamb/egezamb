@@ -41,12 +41,22 @@ contact    = egezambelli1@gmail.com
 
 Most of it is private: products I own, build with partners, or deliver to clients.
 
-#### Open source
+#### Shipped
 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) (Go, authentication server) — fixes for
-  match-all redirect URLs ([#2997](https://github.com/teamhanko/hanko/pull/2997)) and a passkey
-  flow that continued after failed verification ([#2998](https://github.com/teamhanko/hanko/pull/2998)),
-  versioned release artifacts ([#2996](https://github.com/teamhanko/hanko/pull/2996))
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.loomr.net"><img src="assets/loomr.jpg" alt="LOOMR website"></a>
+<br><b><a href="https://www.loomr.net">LOOMR</a></b> — the platform site for a fashion design
+studio: an interactive atelier with showroom, fabric library, design and stylist rooms.
+</td>
+<td width="50%" valign="top">
+<a href="https://3.74.95.123.sslip.io"><img src="assets/plusemlak.jpg" alt="PlusEmlak real estate CRM"></a>
+<br><b><a href="https://3.74.95.123.sslip.io">PlusEmlak</a></b> — CRM and automation for real
+estate offices: listings, client CRM, AI matching and valuation, social media automation.
+</td>
+</tr>
+</table>
 
 #### Public repos
 
