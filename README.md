@@ -1,13 +1,14 @@
 ### Ege Zambelli
 
-Software engineer. I build and sell SaaS products end to end — from the idea and the
-interface to the backend, the cloud it runs on, the launch and the first paying customers.
+Full-stack developer: frontend, backend, mobile and cloud. I build and sell SaaS products end to
+end — from the idea and the interface to the backend, the cloud it runs on, the launch and the
+first paying customers.
 
 ```ini
-role       = Software engineer · SaaS builder
+role       = Full-stack developer · SaaS builder
 does       = product → frontend → backend → cloud → launch → sales
 frontend   = React · Next.js · TypeScript · Tailwind · React Native / Expo
-backend    = Node.js · Python · FastAPI · PostgreSQL · REST APIs
+backend    = Node.js · Python · FastAPI · Go · PostgreSQL · REST APIs
 cloud      = AWS · Azure · Terraform · Docker · Kubernetes · CI/CD
 ai         = LLM & vision APIs · AI image / video pipelines
 location   = Wrocław, PL
@@ -39,6 +40,13 @@ contact    = egezambelli1@gmail.com
   automated delivery
 
 Most of it is private: products I own, build with partners, or deliver to clients.
+
+#### Open source
+
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) (Go, authentication server) — fixes for
+  match-all redirect URLs ([#2997](https://github.com/teamhanko/hanko/pull/2997)) and a passkey
+  flow that continued after failed verification ([#2998](https://github.com/teamhanko/hanko/pull/2998)),
+  versioned release artifacts ([#2996](https://github.com/teamhanko/hanko/pull/2996))
 
 #### Public repos
 
