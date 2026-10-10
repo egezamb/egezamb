@@ -6,19 +6,19 @@ I also build the frontend and backend, I design infrastructure with the whole pr
 
 <img src="assets/profile.svg" alt="role: Cloud &amp; infrastructure engineer, full-stack background. focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. ops: Linux, production deploys, secrets, backups, monitoring. backend: Python, FastAPI, Node.js, Go, PostgreSQL, REST APIs. frontend: React, Next.js, TypeScript, React Native / Expo. ai: LLM and vision APIs, AI image and video pipelines. location: Wrocław, PL. education: BEng Computer Science (Software Development), WSB Merito, 2027. contact: egezambelli1@gmail.com" width="100%">
 
-![AWS](https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
-![Azure](https://img.shields.io/badge/Azure-141414?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Terraform](https://img.shields.io/badge/Terraform-141414?style=flat-square&logo=terraform&logoColor=844FBA)
-![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-141414?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-141414?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Node.js](https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![React Native](https://img.shields.io/badge/React_Native-141414?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=844FBA)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB)
 
 #### What I work on
 
