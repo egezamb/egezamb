@@ -1,43 +1,43 @@
 ### Ege Zambelli
 
-Full-stack developer: frontend, backend, mobile and cloud. I build and sell SaaS products end to
-end — from the idea and the interface to the backend, the cloud it runs on, the launch and the
-first paying customers.
+Cloud and infrastructure engineer with a full-stack background. My focus is the side that keeps
+products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because
+I also build the frontend and backend, I design infrastructure with the whole product in mind.
 
 ```ini
-role       = Full-stack developer · SaaS builder
-does       = product → frontend → backend → cloud → launch → sales
-frontend   = React · Next.js · TypeScript · Tailwind · React Native / Expo
-backend    = Node.js · Python · FastAPI · Go · PostgreSQL · REST APIs
-cloud      = AWS · Azure · Terraform · Docker · Kubernetes · CI/CD
+role       = Cloud & infrastructure engineer · full-stack background
+focus      = AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD
+ops        = Linux · production deploys · secrets · backups · monitoring
+backend    = Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs
+frontend   = React · Next.js · TypeScript · React Native / Expo
 ai         = LLM & vision APIs · AI image / video pipelines
 location   = Wrocław, PL
-education  = BSc Software Development, WSB Merito — 2027
+education  = BEng Computer Science (Software Development), WSB Merito — 2027
 contact    = egezambelli1@gmail.com
 ```
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-#### What I build
+#### What I work on
 
-- **SaaS platforms** — CRM and listings for real estate, inventory and warehouse management,
-  social media analytics
-- **AI products** — AI ad creatives, AI-generated video websites, vision features in web apps
-- **Mobile apps** — iOS and Android with React Native / Expo
-- **The infrastructure under all of it** — production on AWS, infrastructure as code,
-  automated delivery
+- **Cloud infrastructure** — production on AWS and Azure, infrastructure in Terraform, least-privilege IAM,
+  secrets in SSM, backups and alarms
+- **Containers and delivery** — Docker images, Helm charts, CI/CD pipelines with test gates and
+  image scanning, automated deploys
+- **The products on top** — SaaS platforms (real estate CRM, warehouse management), AI products,
+  and iOS / Android apps with React Native
 
 Most of it is private: products I own, build with partners, or deliver to clients.
 
