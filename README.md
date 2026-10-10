@@ -1,4 +1,4 @@
-### Ege Zambelli
+<img src="assets/banner.svg" alt="Ege Zambelli — Cloud &amp; Infrastructure Engineer with a full-stack background" width="100%">
 
 Cloud and infrastructure engineer with a full-stack background. My focus is the side that keeps
 products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because
