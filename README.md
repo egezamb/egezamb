@@ -4,17 +4,7 @@ Cloud and infrastructure engineer with a full-stack background. My focus is the 
 products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because
 I also build the frontend and backend, I design infrastructure with the whole product in mind.
 
-```ini
-role       = Cloud & infrastructure engineer · full-stack background
-focus      = AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD
-ops        = Linux · production deploys · secrets · backups · monitoring
-backend    = Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs
-frontend   = React · Next.js · TypeScript · React Native / Expo
-ai         = LLM & vision APIs · AI image / video pipelines
-location   = Wrocław, PL
-education  = BEng Computer Science (Software Development), WSB Merito — 2027
-contact    = egezambelli1@gmail.com
-```
+<img src="assets/stack.svg" alt="role: Cloud &amp; infrastructure engineer, full-stack background. focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. ops: Linux, production deploys, secrets, backups, monitoring. backend: Python, FastAPI, Node.js, Go, PostgreSQL, REST APIs. frontend: React, Next.js, TypeScript, React Native / Expo. ai: LLM and vision APIs, AI image and video pipelines. location: Wrocław, PL. education: BEng Computer Science (Software Development), WSB Merito, 2027. contact: egezambelli1@gmail.com" width="100%">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)

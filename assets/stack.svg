@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 526" width="1200" height="526" role="img" aria-label="Profile: role Cloud &amp; infrastructure engineer · full-stack background; focus AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD; ops Linux · production deploys · secrets · backups · monitoring; backend Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs; frontend React · Next.js · TypeScript · React Native / Expo; ai LLM &amp; vision APIs · AI image / video pipelines; location Wrocław, PL; education BEng Computer Science (Software Development), WSB Merito — 2027; contact egezambelli1@gmail.com">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#141414"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.4" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="526" rx="18"/></clipPath>
+    <clipPath id="type"><rect class="typer" x="70" y="56" height="36" width="0"/></clipPath>
+  </defs>
+
+  <style>
+    @font-face { font-family: 'JBM'; src: url(data:font/woff2;base64,d09GMgABAAAAAA2IAA8AAAAAGjgAAA0rAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGlIbIBwqBmA/U1RBVF4AgVIRCAqlFJxMATYCJAOCCAuBBgAEIAWEPgcgG18Uo6KUs4KT/TPBJjL1BQtFARMagg7LcVhXl7OJpXUswx9g+0L7SHgnfAHljofv92vnvhVDbLpZZZi+kKBZpXuyZF6KhsJ0vFSTkv8PdKt/Uy1an1qxFo6TB2Hy7MSbMGFVV0t+AOyD3n//btYM5GwmnKl1Wh8fIsaZl2KkJe2qCiFvtzpp+sv//TKfb660+XfssOSQnagyVTNJFmYns8B52VK6x6p8CFNQpwroTleoAwJXIEWaVTUZT0K4ygrreuznvlNoLcyJkY8ulutqf713UAANACSlEHshREQQNWog6tRBNGiAaNIE0aoVol0HhEQ3RK9eiH4DEAhQ1aAJMnHf6YNiAkAGgG6LRBfeg1UsGwtTUIOAsfOJxZMUQDpPIQBTWa8xD9LAABKobDrbJWcytMk6gCfo7NzL//e/DU4/JexrAeTi802Q+nl5dCqAQBTjAR34QC/e5svJBQTAwloii1QColCdHjwghQA5iZgHiBfk1FC6qwPxVQ2PMxA5xxzJRhd4AINaCBRr0UHd6qRU9DA2bj5BaRkz1my5s3MvGTpqTZe+TTgHGol1B8z1VK9GnUqQTeMQ2ZNePbo0atIsaP28n1/9EPvD0OnJjlKTURo0ZBgCyagEqAMcYhoUbigtuUrvNRIZHUMOqTxX1eCkulZFI1zzxhK/aoy8BuRcVSgL9wqLW8pKDlPrKCsrL2zcXS6sKa8U9haLG0urK5q4u/bPkuYKUUnFhYqdot0VNRX7+vfo3c2Zu0R6OWWl9cIygWDPHoGgo7hYIGgaruhSF7s5zEHSSPWzVuBsTbL38wqOxcG0rydtLj7SPu/WJo1jCYw6RMjUuLJhOQ7K0UQCRzij8zMsGyQzjmGM1iwQ7pNu9Mj8NF6hgBuEIjWoWuzGj7QwgM9OYpldJJPEyCsIFSAXQ9NpfvZ4yceJ5HFZrcwivX5HZuE+Hasuz0zs85AvO94VGgWDGb7o5XAoXVF9agM8RpI8u8DQLEqiuXMYiYdCY3rrXLdx1bdro/bGf5B1et1/VZsaaEGInhEWviLCuQbRa4iD6dnZkJqbuytc5m3ZlzlCgEIZOTlbk7KytgeEZaWUGaML89BuclcdJELKu96lEZVlzY08b1h3O/YS0AoGlXNv9SIsMG2t7p1yjXBXl1ILOCz9hxiIRmWU9XinfQ9ryC5CyvLQ/O0qASFwG2bP7vP69eUsE3J33TCt2AbAQJLAjd2LqDOJfAQOMLvftMk31x5tovBUby+F/FoEGa3aisRgiWBVSTXTkB79RbA1AqVjemOom1+SEuDMU5XYxJn0HbluT6kxqkBl6jWNvKUuNBopjcamOBMGDUkO2UT+DQXoPQlDLlsDhDSuuLCX06eZY7Oq6HlRwCUHKKODuNKV3m6RYvXHYuRxLDOZwTgX/K6o+Qg2h9ibXb8js3GfnwNSVnp+VuEuF8wtQL6Mgq1Jeds97PexSN6yIzVzG2X+lIymsrTNqtBNNmRvSc39rK8YX7pRgWcKGO+DsJlB0KNu9WC0l2PdYHZ9oraKOjOSuhev0VmEEoaEfaGqKsBv3UCoQMCY1hZ+9ohv/NkY81M6DNnjdyJ+T6CsjWjSuY/xOzEbPyog4zow0HE0NufvyUdHsExHhvgbl1y4Cle8nQQcXTTr4epWDZvmwDxTPmERwfVn8MR4d3X5xq5EZKJLrImemgrosAz6fBEhpR0ue3JLT5TvYK0zrq9WKYM/Ntjs6XlwSTC7BarTg601Dv7i/DUdfGZtVWDWnxA6q4I0W4vNntOKqq6X3xLRxcXupS9dS/5z/e8du8CVtmu//98gdu/mz/m/6PLss09PvRdPPHrs/Duy3SWdMeDXGmRhbog8nN4wUoRGR9mNG+4lDaHP4HrNMgwKifiwPIbbCXk0nw5BcFJZFGcNGKHVErjBYSAmRJqagcVkMU4Kkfz91nEFmiDbSTQJ3ViTnhRhtxHtePLjTMFo/jLG8XHXSBffwQD3zg1M4BcdozG5B6mQydOY768LMatonkW/Rtk8S39NQ5o5XXk6c8TJDxH1VVJnL0aTt8UeWJu4eiTNwHyePcrOgDO/5PjmxqYhbOck69dL+ZCwr2BauFCSUS1muaWsRTheNFcwOywENr/y/kyNgOLRHecEqw3vzVTzhxKfA5H8N6aUXMkRuDKeLd10ct/myVoLpTdYrNqT4fLG8Wt4vHgxmZQr4jhGKDh+gjQl5LBcAiPVKWrhoY/+0lpsesxgoZYslAHTW2wQyX+M//0PFjXanWl8z1nGzLGKReWRR6GkRaMlzehRMCikxgdV+8tZld1IGi16Vd8Afl+yyS6iD9i08gA3hMfnMxBilZhOq8FU0v5B/PlUMyXy5Ow61f7RYfj/7Cnma+apoyHnfTugrN9n6K5o7HaLyfqovl7stpW3Cdz70HrG//asXixyKEpLzVoJIYZ/hHoq5HSlgv5rVLIn0GG8i2CLLfPeIJdL+NZCaQTb+lhpwUaMUvdV/cO9A5+CQ2g6rJFD0myevQjZ4McGDiO9qRx3cSyVm3GpcRI7A8NJtQozG84wYOaHnZMcVmw8g1BEk0Nz82O8INuBoajWTBjONJjZw0MxdTvLC86PQamQGc3FLuZSOa/psKYYH9m4iM2zaYRrPEzsQo3OSOJF3VeEXiEel8ljRskvj+bskMUbHMUSAQWOm/TyX0fZYtMC3WlvxDGzQY+b8UZ49/yLmIs4fMROXcxc3FzWyH3EfHQ+XNTI3Ngz1mVBUryhgTnSn5iKLcQSOT85NzCEpPdr7Kx/pKMjcGpaMfjTWKI+e/+HjcjIf0mzNzEWmmMntQZMiWJmLAZ+5tFDrmEEr93NgO9W78EGE6G//XMGK0osz44Bl2fPzFz48cRdBffuS1/469vfYHnIKu40D353N7PH2BZouZEBQuIhCp171noGDn4oJHC2H9MjR13YJd5L2x5vqP+07TLq0vZP0dvaLoOIhE2HZ98zkHZvEcF9YjgFHJUI+E/FFRL1jHu0OI6dguG4VkPkJLEgfOsYjz5wqMmbzHIXG/vC9DBKnjYw/vbKH2qM7DKMVKvwFUlmB9OSUPJ0KuIMjmejrWwtbjBp1MN+3euKUKat0sFG8L4ehaaj/cs3bKV0uZuy2KN0TOLhbBew+3e6JbLPJG3bV9hKQ+W0g3LGA0mYtLodZvJc5txz2XPfZd4ljbozGOgRcrMziRgbMxhNKhQzGcqpJOZn4Ic7xZHV2YsahrCGk5Zmw4uhYT0oppWHi5NVVYeIdYcHdJByyB8qergzLE5p1rVnNjcvO/TrIH2k7o6STPbqTPa0zqczuavTd5Q+XJtZvDXzHIV+u7Z0K9zcSL/+LH902xt/wGh8gF72JireBpaVrfYxJ7PqVTMDvcL33o0rRKpIOHWUU4/pqczJK2m/r0ca6qH++DAbEGCZJ/SPnzp62dr6UZcwEIm8/+1xslifnjBrMMpqZBEcjY/KSCL+TXwBBnzV7rr1bhcDd7uO3JxlH3gy9O/B0CuUPCvufF4ieb5T/CxclutRHnKwEuw5kew6Tryt8Ony8W3nP3/6bUnqgiNyYZF/J+qTbXpuc0k3Y8wOzC3vxyqijHTTdZtHthn17fgjosNz1AXJ204//3k49gCN0dBGh2jYfeyh0aLMJOJnh68PFF75C5oVnZzwFh12+1CmKDUBI+xgyRN/bvx8emAmDwSLD7WLwkM/rGncqp397I6CXvnPafCdTd9AX/9DMhXAdixaq0UjVlve+Gtv9Xq9xS8lLFbtIkt07N8VTLf6Ny2mQ0I+Fjt4xexz5jSanPMGq6o05HlyCDe5nStOkxsfegILlQnNBWqxi+pUsqn5Sd9oZi5qcQi6uxPy6cED3V0bgyuDG/CZkIkEXZsKJTWQ/qre2jHUZ6UlSo2vu9+hYBtXb2+uP9RXV2vrvvZby1Zs5omFi1KGgC0e87R9GyxwysSnX7RudX1r5PTASGMT09rKNDWOAK8fGoEivHmZ1qzMLb8EMhBNAKogD2AOpBG+EPyZM57KHsXbKEC28RoBpDHBqv+7Jm6d7rdiPv9LeF24ImPS2/JLP/91Y+c1wSm5f11zniMl9H/1/vytJuu/E1Wl8b60nkLALiBFFCFEMCq4OqIi3YR5OAULggZQUKFW4KrsF9BJoagxgEOTTOgQwTRYWZWhXZaqggZBVXhbXA5w4G7M4ziAABz8wNH/NamAfwigHndZdZsiRTxHpVlzTFEbyQsB3DHbhmhw3zaeCm9t49P5fJtAX7RtK1AX7q2FemJyHwSgIU6RBC4CSGVT+gWrq4KSuMa4aTNWzUmbMGlBC6khYbbwKRhj9o25gEDsmpA2Zd50mS4wbdLmMpbR85SpiVuM2KTK51C8y6W5YKZWXWPQoAlp7emLkgak4pvkDAZoVnWFvPruDpmMsfjQRVkJc6S7Sg0bpr1VgtblZfrNWh5drmVmBYwNl6d1UkvItgqFoPMxMJswE7KxlcIQxBIQ4tsfWRYpEAAAAAA=) format('woff2'); }
+    @font-face { font-family: 'JBM'; src: url(data:font/woff2;base64,d09GMgABAAAAAAKIAA8AAAAABYwAAAIxAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhQbIBwqBmA/U1RBVF4ANBEICkhiATYCJAMGCwYABCAFhD4HIBuXBMieBTkZ2itRhBdaiBKTdfXdTRFUY2XP7oYAdNSrEJEiFWFOfb0LAEgCoZAUaXIH1+/X9p1pvXSzpxpFm2PSvvp+pNECIRJJiek0Qs4jtfzPL5s4ly5KPAOAKmg3wbJhNOCERlL/9jeUF3zRdy3zFjfWN3r06DE5kzk90oZAR0D4NdobqIxNnX66h5QCDQAYOVpbZF1h7yayoZS4D0paHc1akSppJTBn/o9YbxobkGgHoADA7MkAnsbkmJyr9cnVmDgUO/39PWl0+sNQcSG0ldBTFCNFDu9QiWHXAc5kXYTW+uuKIEWJZmI9iOfI4qX0EFlI0RUgQEIudgL8mKFAKQYxucF19ScCrLDPVgQJFAT6AIMBKIDos4KtyO2jU1rh3tejDh20r7x7F7Hlx7V/jt1b3KPfBXvht/2u+oi3b2+PZzTGTBsdBRBIk8rdkWC8odj0n5x/w+dXl47B508v/mz90pKraC2B4JlhuUOIWi9KAAAirfSqjCHFXfv9aJ24M0vooCKL0g4Psegw0C+ddPaBzpr808XEqNKt9I8L1dr4UGVBx2iJi4oouuzQU491lYlrpnC4Pvk0ChVBU+PxbqB7Kgk6kJAdH0djC6Azh82BrvkcOomAoK0QUTl8AdSmIsQVmBkZUWiIKsQbEjgsI0FlNJTzOxcltyTTh0wc35Q/NTExX7ozrxwZnNXHGLbyI4kvoLEYKdtSAU/GH9J7hGNCL7jlsHBPiwKNTIHQAQAA) format('woff2'); unicode-range: U+0142; }
+    .cmd   { font: 500 22px 'JBM', 'SFMono-Regular', Menlo, Consolas, monospace; fill: #e5e5e5; }
+    .meta  { font: 500 16px 'JBM', 'SFMono-Regular', Menlo, Consolas, monospace; fill: #737373; }
+    .key   { font: 500 18px 'JBM', 'SFMono-Regular', Menlo, Consolas, monospace; fill: #737373; }
+    .eq    { font: 500 18px 'JBM', 'SFMono-Regular', Menlo, Consolas, monospace; fill: #525252; }
+    .val   { font: 500 18px 'JBM', 'SFMono-Regular', Menlo, Consolas, monospace; fill: #e5e5e5; }
+    .ok    { fill: #ffffff; }
+    .typer { animation: typing .9s steps(19) .2s forwards; }
+    .bar   { animation: grow 1.2s ease-out .5s both; transform-origin: 70px 0; }
+    .row   { opacity: 0; animation: rise .7s ease-out forwards; }
+    .caret { fill: #ffffff; animation: blink 1s step-end infinite; }
+    .sweep { animation: sweep 6s ease-in-out 2.4s infinite; }
+    @keyframes typing { to { width: 300px; } }
+    @keyframes grow   { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes rise   { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @keyframes blink  { 50% { opacity: 0; } }
+    @keyframes sweep  { 0% { transform: translateY(-120px); } 60%, 100% { transform: translateY(526px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } .typer { width: 300px; } .sweep { display: none; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="526" fill="url(#bg)"/>
+    <rect width="1200" height="526" fill="url(#grid)"/>
+    <rect width="1200" height="526" fill="url(#glow)"/>
+    <rect class="sweep" width="1200" height="120" fill="url(#scan)"/>
+
+    <g clip-path="url(#type)">
+      <text class="cmd" x="70" y="84"><tspan class="ok">$</tspan> cat ~/profile.ini</text>
+    </g>
+    <text class="meta" x="1130" y="84" text-anchor="end">~/egezamb</text>
+    <rect class="bar" x="70" y="106" width="96" height="4" rx="2" fill="#ffffff"/>
+
+    <g class="row" style="animation-delay:0.90s"><text class="key" x="70" y="150">role</text><text class="eq" x="200" y="150">=</text><text class="val" x="232" y="150">Cloud &amp; infrastructure engineer · full-stack background</text></g>
+    <g class="row" style="animation-delay:1.02s"><text class="key" x="70" y="184">focus</text><text class="eq" x="200" y="184">=</text><text class="val" x="232" y="184">AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD</text></g>
+    <g class="row" style="animation-delay:1.14s"><text class="key" x="70" y="218">ops</text><text class="eq" x="200" y="218">=</text><text class="val" x="232" y="218">Linux · production deploys · secrets · backups · monitoring</text></g>
+    <g class="row" style="animation-delay:1.26s"><text class="key" x="70" y="252">backend</text><text class="eq" x="200" y="252">=</text><text class="val" x="232" y="252">Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs</text></g>
+    <g class="row" style="animation-delay:1.38s"><text class="key" x="70" y="286">frontend</text><text class="eq" x="200" y="286">=</text><text class="val" x="232" y="286">React · Next.js · TypeScript · React Native / Expo</text></g>
+    <g class="row" style="animation-delay:1.50s"><text class="key" x="70" y="320">ai</text><text class="eq" x="200" y="320">=</text><text class="val" x="232" y="320">LLM &amp; vision APIs · AI image / video pipelines</text></g>
+    <g class="row" style="animation-delay:1.62s"><text class="key" x="70" y="354">location</text><text class="eq" x="200" y="354">=</text><text class="val" x="232" y="354">Wrocław, PL</text></g>
+    <g class="row" style="animation-delay:1.74s"><text class="key" x="70" y="388">education</text><text class="eq" x="200" y="388">=</text><text class="val" x="232" y="388">BEng Computer Science (Software Development), WSB Merito — 2027</text></g>
+    <g class="row" style="animation-delay:1.86s"><text class="key" x="70" y="422">contact</text><text class="eq" x="200" y="422">=</text><text class="val" x="232" y="422">egezambelli1@gmail.com</text></g>
+
+    <text class="cmd" x="70" y="490"><tspan class="ok">$</tspan></text>
+    <rect class="caret" x="94" y="472" width="11" height="24" rx="1"/>
+  </g>
+</svg>
