@@ -4,21 +4,21 @@ Cloud and infrastructure engineer with a full-stack background. My focus is the 
 products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because
 I also build the frontend and backend, I design infrastructure with the whole product in mind.
 
-<img src="assets/profile-ini.svg" alt="role: Cloud &amp; infrastructure engineer, full-stack background. focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. ops: Linux, production deploys, secrets, backups, monitoring. backend: Python, FastAPI, Node.js, Go, PostgreSQL, REST APIs. frontend: React, Next.js, TypeScript, React Native / Expo. ai: LLM and vision APIs, AI image and video pipelines. location: Wrocław, PL. education: BEng Computer Science (Software Development), WSB Merito, 2027. contact: egezambelli1@gmail.com" width="100%">
+<img src="assets/profile.svg" alt="role: Cloud &amp; infrastructure engineer, full-stack background. focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. ops: Linux, production deploys, secrets, backups, monitoring. backend: Python, FastAPI, Node.js, Go, PostgreSQL, REST APIs. frontend: React, Next.js, TypeScript, React Native / Expo. ai: LLM and vision APIs, AI image and video pipelines. location: Wrocław, PL. education: BEng Computer Science (Software Development), WSB Merito, 2027. contact: egezambelli1@gmail.com" width="100%">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonwebservices&logoColor=a3a3a3)
+![Azure](https://img.shields.io/badge/Azure-141414?style=flat-square&logo=microsoftazure&logoColor=a3a3a3)
+![Terraform](https://img.shields.io/badge/Terraform-141414?style=flat-square&logo=terraform&logoColor=a3a3a3)
+![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=a3a3a3)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-141414?style=flat-square&logo=kubernetes&logoColor=a3a3a3)
+![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=a3a3a3)
+![FastAPI](https://img.shields.io/badge/FastAPI-141414?style=flat-square&logo=fastapi&logoColor=a3a3a3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=a3a3a3)
+![Node.js](https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=a3a3a3)
+![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=a3a3a3)
+![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=a3a3a3)
+![Next.js](https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=a3a3a3)
+![React Native](https://img.shields.io/badge/React_Native-141414?style=flat-square&logo=react&logoColor=a3a3a3)
 
 #### What I work on
 

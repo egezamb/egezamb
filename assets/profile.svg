@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 436" width="1200" height="436" role="img" aria-label="Profile: role Cloud &amp; infrastructure engineer · full-stack background; focus AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD; ops Linux · production deploys · secrets · backups · monitoring; backend Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs; frontend React · Next.js · TypeScript · React Native / Expo; ai LLM &amp; vision APIs · AI image / video pipelines; location Wrocław, PL; education BEng Computer Science (Software Development), WSB Merito — 2027; contact egezambelli1@gmail.com">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 402" width="1200" height="402" role="img" aria-label="Profile: role Cloud &amp; infrastructure engineer · full-stack background; focus AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD; ops Linux · production deploys · secrets · backups · monitoring; backend Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs; frontend React · Next.js · TypeScript · React Native / Expo; ai LLM &amp; vision APIs · AI image / video pipelines; location Wrocław, PL; education BEng Computer Science (Software Development), WSB Merito — 2027; contact egezambelli1@gmail.com">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050505"/>
@@ -11,7 +11,7 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
     </pattern>
-    <clipPath id="frame"><rect width="1200" height="436" rx="18"/></clipPath>
+    <clipPath id="frame"><rect width="1200" height="402" rx="18"/></clipPath>
     <clipPath id="type"><rect class="typer" x="70" y="56" height="36" width="0"/></clipPath>
   </defs>
 
@@ -27,18 +27,16 @@
     .typer { animation: typing .9s steps(19) .2s forwards; }
     .bar   { animation: grow 1.2s ease-out .5s both; transform-origin: 70px 0; }
     .row   { opacity: 0; animation: rise .7s ease-out forwards; }
-    .caret { fill: #ffffff; animation: blink 1s step-end infinite; }
     @keyframes typing { to { width: 300px; } }
     @keyframes grow   { from { transform: scaleX(0); } to { transform: scaleX(1); } }
     @keyframes rise   { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
-    @keyframes blink  { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } .typer { width: 300px; } }
   </style>
 
   <g clip-path="url(#frame)">
-    <rect width="1200" height="436" fill="url(#bg)"/>
-    <rect width="1200" height="436" fill="url(#grid)"/>
-    <rect width="1200" height="436" fill="url(#glow)"/>
+    <rect width="1200" height="402" fill="url(#bg)"/>
+    <rect width="1200" height="402" fill="url(#grid)"/>
+    <rect width="1200" height="402" fill="url(#glow)"/>
 
     <g clip-path="url(#type)">
       <text class="cmd" x="70" y="84"><tspan class="ok">$</tspan> cat ~/profile.ini</text>
@@ -56,7 +54,5 @@
     <g class="row" style="animation-delay:1.74s"><text class="key" x="70" y="328">education</text><text class="eq" x="200" y="328">=</text><text class="val" x="232" y="328">BEng Computer Science (Software Development), WSB Merito — 2027</text></g>
     <g class="row" style="animation-delay:1.86s"><text class="key" x="70" y="354">contact</text><text class="eq" x="200" y="354">=</text><text class="val" x="232" y="354">egezambelli1@gmail.com</text></g>
 
-    <text class="cmd" x="70" y="406"><tspan class="ok">$</tspan></text>
-    <rect class="caret" x="94" y="388" width="11" height="24" rx="1"/>
   </g>
 </svg>
