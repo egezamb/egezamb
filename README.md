@@ -1,10 +1,10 @@
-<img src="assets/banner.svg" alt="Ege Zambelli — Cloud &amp; Infrastructure Engineer with a full-stack background" width="100%">
+<img src="assets/banner-ege.svg" alt="Ege Zambelli — Cloud &amp; Infrastructure Engineer with a full-stack background" width="100%">
 
 Cloud and infrastructure engineer with a full-stack background. My focus is the side that keeps
 products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because
 I also build the frontend and backend, I design infrastructure with the whole product in mind.
 
-<img src="assets/profile.svg" alt="role: Cloud &amp; infrastructure engineer, full-stack background. focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. ops: Linux, production deploys, secrets, backups, monitoring. backend: Python, FastAPI, Node.js, Go, PostgreSQL, REST APIs. frontend: React, Next.js, TypeScript, React Native / Expo. ai: LLM and vision APIs, AI image and video pipelines. location: Wrocław, PL. education: BEng Computer Science (Software Development), WSB Merito, 2027. contact: egezambelli1@gmail.com" width="100%">
+<img src="assets/profile-black.svg" alt="role: Cloud &amp; infrastructure engineer, full-stack background. focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. ops: Linux, production deploys, secrets, backups, monitoring. backend: Python, FastAPI, Node.js, Go, PostgreSQL, REST APIs. frontend: React, Next.js, TypeScript, React Native / Expo. ai: LLM and vision APIs, AI image and video pipelines. location: Wrocław, PL. education: BEng Computer Science (Software Development), WSB Merito, 2027. contact: egezambelli1@gmail.com" width="100%">
 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=0078D4)

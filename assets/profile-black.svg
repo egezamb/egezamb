@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 402" width="1200" height="402" role="img" aria-label="Profile: role Cloud &amp; infrastructure engineer · full-stack background; focus AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD; ops Linux · production deploys · secrets · backups · monitoring; backend Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs; frontend React · Next.js · TypeScript · React Native / Expo; ai LLM &amp; vision APIs · AI image / video pipelines; location Wrocław, PL; education BEng Computer Science (Software Development), WSB Merito — 2027; contact egezambelli1@gmail.com">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#050505"/>
-      <stop offset="1" stop-color="#141414"/>
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="1" stop-color="#000000"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.82" cy="0.4" r="0.5">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.07"/>
@@ -36,7 +36,6 @@
   <g clip-path="url(#frame)">
     <rect width="1200" height="402" fill="url(#bg)"/>
     <rect width="1200" height="402" fill="url(#grid)"/>
-    <rect width="1200" height="402" fill="url(#glow)"/>
 
     <g clip-path="url(#type)">
       <text class="cmd" x="70" y="84"><tspan class="ok">$</tspan> cat ~/profile.ini</text>
