@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 974" width="1200" height="974" role="img" aria-label="Ege Zambelli. Cloud and DevOps engineer with a full-stack background. Cloud and DevOps engineer with a full-stack background. My focus is the side that keeps products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because I also build the frontend and backend, I design infrastructure with the whole product in mind. role: Cloud &amp; DevOps engineer · full-stack background; focus: AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD; ops: Linux · production deploys · secrets · backups · monitoring; backend: Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs; frontend: React · Next.js · TypeScript · React Native / Expo; ai: LLM &amp; vision APIs · AI image / video pipelines; location: Wrocław, PL; education: BEng Computer Science (Software Development), WSB Merito — 2027; contact: egezambelli1@gmail.com">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" width="1200" height="1000" role="img" aria-label="Ege Zambelli. Cloud and DevOps engineer with a full-stack background. Cloud and DevOps engineer with a full-stack background. My focus is the side that keeps products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because I also build the frontend and backend, I design infrastructure with the whole product in mind. role: Cloud &amp; DevOps engineer · full-stack background; focus: AWS · Azure · Terraform · Docker · Kubernetes · Helm · CI/CD; ops: Linux · production deploys · secrets · backups · monitoring; backend: Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs; frontend: React · Next.js · TypeScript · React Native / Expo; ai: LLM &amp; vision APIs · AI image / video pipelines; workflow: agentic AI coding (Claude Code) · I review and test every change; location: Wrocław, PL; education: BEng Computer Science (Software Development), WSB Merito — 2027; contact: egezambelli1@gmail.com">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#000000"/>
@@ -15,7 +15,7 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
     </pattern>
-    <clipPath id="frame"><rect width="1200" height="974" rx="18"/></clipPath>
+    <clipPath id="frame"><rect width="1200" height="1000" rx="18"/></clipPath>
     <clipPath id="type"><rect class="typer" x="70" y="206" height="40" width="0"/></clipPath>
   
     <clipPath id="s1"><rect width="1200" height="320"/></clipPath>
@@ -66,8 +66,8 @@
   </style>
 
   <g clip-path="url(#frame)">
-    <rect width="1200" height="974" fill="#000000"/>
-    <rect width="1200" height="974" fill="url(#grid)"/>
+    <rect width="1200" height="1000" fill="#000000"/>
+    <rect width="1200" height="1000" fill="url(#grid)"/>
 
     <!-- 1: name banner -->
     <g clip-path="url(#s1)">
@@ -116,8 +116,9 @@
     <g class="row" style="animation-delay:1.96s"><text class="key" x="70" y="796">backend</text><text class="eq" x="200" y="796">=</text><text class="val" x="232" y="796">Python · FastAPI · Node.js · Go · PostgreSQL · REST APIs</text></g>
     <g class="row" style="animation-delay:2.08s"><text class="key" x="70" y="822">frontend</text><text class="eq" x="200" y="822">=</text><text class="val" x="232" y="822">React · Next.js · TypeScript · React Native / Expo</text></g>
     <g class="row" style="animation-delay:2.20s"><text class="key" x="70" y="848">ai</text><text class="eq" x="200" y="848">=</text><text class="val" x="232" y="848">LLM &amp; vision APIs · AI image / video pipelines</text></g>
-    <g class="row" style="animation-delay:2.32s"><text class="key" x="70" y="874">location</text><text class="eq" x="200" y="874">=</text><text class="val" x="232" y="874">Wrocław, PL</text></g>
-    <g class="row" style="animation-delay:2.44s"><text class="key" x="70" y="900">education</text><text class="eq" x="200" y="900">=</text><text class="val" x="232" y="900">BEng Computer Science (Software Development), WSB Merito — 2027</text></g>
-    <g class="row" style="animation-delay:2.56s"><text class="key" x="70" y="926">contact</text><text class="eq" x="200" y="926">=</text><text class="val" x="232" y="926">egezambelli1@gmail.com</text></g>
+    <g class="row" style="animation-delay:2.32s"><text class="key" x="70" y="874">workflow</text><text class="eq" x="200" y="874">=</text><text class="val" x="232" y="874">agentic AI coding (Claude Code) · I review and test every change</text></g>
+    <g class="row" style="animation-delay:2.44s"><text class="key" x="70" y="900">location</text><text class="eq" x="200" y="900">=</text><text class="val" x="232" y="900">Wrocław, PL</text></g>
+    <g class="row" style="animation-delay:2.56s"><text class="key" x="70" y="926">education</text><text class="eq" x="200" y="926">=</text><text class="val" x="232" y="926">BEng Computer Science (Software Development), WSB Merito — 2027</text></g>
+    <g class="row" style="animation-delay:2.68s"><text class="key" x="70" y="952">contact</text><text class="eq" x="200" y="952">=</text><text class="val" x="232" y="952">egezambelli1@gmail.com</text></g>
   </g>
 </svg>
