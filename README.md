@@ -25,6 +25,29 @@
 
 Most of it is private: products I own, build with partners, or deliver to clients.
 
+#### Open source: Git Hospital
+
+[**Git Hospital**](https://github.com/Git-Hospital) is the open-source organization Kadir
+([@kassvl](https://github.com/kassvl)) and I run: tools that diagnose infrastructure and code, and show
+the evidence for every diagnosis.
+
+**[Helmbulance](https://github.com/Git-Hospital/helmbulance)** is my main project there. It installs a
+Helm chart on a throwaway kind cluster and runs the day-2 operations that static checks miss: upgrades
+with and without the original values, reinstalls, Secret rotation, and upgrades under live traffic.
+A finding is reported only when it reproduces on the cluster. I build the CLI and the test scenarios
+(14 merged PRs); Kadir builds CI and the GitHub Action.
+
+Bugs it found in public charts went upstream as fixes:
+[seaweedfs#11720](https://github.com/seaweedfs/seaweedfs/pull/11720) (merged),
+[zero-to-jupyterhub-k8s#3997](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/3997) and
+[semaphoreui/charts#35](https://github.com/semaphoreui/charts/pull/35) (in review).
+
+| Also in Git Hospital, by Kadir | |
+| --- | --- |
+| [MeshMedic](https://github.com/Git-Hospital/meshmedic) | Istio incident remediation: Prometheus signal in, reviewable GitOps pull request out |
+| [GitHealthCheck](https://github.com/Git-Hospital/githealthcheck) | Code health analysis for Git repositories, where every number is a measurement |
+| [boards](https://github.com/Git-Hospital/boards) | Benchmark of known defects and clean twins for scoring mesh, Helm and code health tools |
+
 #### Shipped
 
 <table>
