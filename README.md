@@ -1,4 +1,4 @@
-<img src="assets/profile-v6.svg" alt="Ege Zambelli, Cloud and DevOps Engineer with a full-stack background. My focus is the side that keeps products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because I also build the frontend and backend, I design infrastructure with the whole product in mind. Focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. Backend: Python, FastAPI, Node.js, Go, PostgreSQL. Frontend: React, Next.js, TypeScript, React Native. Workflow: agentic AI coding with Claude Code; I review and test every change myself. Wrocław, PL. BEng Computer Science, WSB Merito, 2027. Contact: egezambelli1@gmail.com. Open source: Helmbulance, behavioural tests for Helm charts, in the Git Hospital organization." width="100%">
+<img src="assets/profile-v7.svg" alt="Ege Zambelli, Cloud and DevOps Engineer. My focus is the side that keeps products running: AWS and Azure, infrastructure as code, containers, CI/CD and production operations. Because I also build the frontend and backend, I design infrastructure with the whole product in mind. Focus: AWS, Azure, Terraform, Docker, Kubernetes, Helm, CI/CD. Backend: Python, FastAPI, Node.js, Go, PostgreSQL. Frontend: React, Next.js, TypeScript, React Native. Workflow: agentic AI coding with Claude Code; I review and test every change myself. Wrocław, PL. BEng Computer Science, WSB Merito, 2027. Contact: egezambelli1@gmail.com. Open source: Helmbulance, behavioural tests for Helm charts, in the Git Hospital organization." width="100%">
 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=0078D4)
@@ -27,26 +27,19 @@ Most of it is private: products I own, build with partners, or deliver to client
 
 #### Open source: Git Hospital
 
-[**Git Hospital**](https://github.com/Git-Hospital) is the open-source organization Kadir
-([@kassvl](https://github.com/kassvl)) and I run: tools that diagnose infrastructure and code, and show
-the evidence for every diagnosis.
+[**Git Hospital**](https://github.com/Git-Hospital) is an open-source organization I co-run: tools
+that diagnose infrastructure and code, and show the evidence for every diagnosis.
 
 **[Helmbulance](https://github.com/Git-Hospital/helmbulance)** is my main project there. It installs a
 Helm chart on a throwaway kind cluster and runs the day-2 operations that static checks miss: upgrades
 with and without the original values, reinstalls, Secret rotation, and upgrades under live traffic.
 A finding is reported only when it reproduces on the cluster. I build the CLI and the test scenarios
-(14 merged PRs); Kadir builds CI and the GitHub Action.
+(14 merged PRs).
 
 Bugs it found in public charts went upstream as fixes:
 [seaweedfs#11720](https://github.com/seaweedfs/seaweedfs/pull/11720) (merged),
 [zero-to-jupyterhub-k8s#3997](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/3997) and
 [semaphoreui/charts#35](https://github.com/semaphoreui/charts/pull/35) (in review).
-
-| Also in Git Hospital, by Kadir | |
-| --- | --- |
-| [MeshMedic](https://github.com/Git-Hospital/meshmedic) | Istio incident remediation: Prometheus signal in, reviewable GitOps pull request out |
-| [GitHealthCheck](https://github.com/Git-Hospital/githealthcheck) | Code health analysis for Git repositories, where every number is a measurement |
-| [boards](https://github.com/Git-Hospital/boards) | Benchmark of known defects and clean twins for scoring mesh, Helm and code health tools |
 
 #### Shipped
 
