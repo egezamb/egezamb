@@ -34,12 +34,7 @@ that diagnose infrastructure and code, and show the evidence for every diagnosis
 Helm chart on a throwaway kind cluster and runs the day-2 operations that static checks miss: upgrades
 with and without the original values, reinstalls, Secret rotation, and upgrades under live traffic.
 A finding is reported only when it reproduces on the cluster. I build the CLI and the test scenarios
-(14 merged PRs).
-
-Bugs it found in public charts went upstream as fixes:
-[seaweedfs#11720](https://github.com/seaweedfs/seaweedfs/pull/11720) (merged),
-[zero-to-jupyterhub-k8s#3997](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/3997) and
-[semaphoreui/charts#35](https://github.com/semaphoreui/charts/pull/35) (in review).
+(26 merged PRs). The bugs it found in public charts went upstream as fixes, listed below.
 
 #### Shipped
 
@@ -58,13 +53,11 @@ estate offices: listings, client CRM, AI matching and valuation, social media au
 </tr>
 </table>
 
-#### Public repos
+#### Open source contributions
 
-| Repo | |
+Fixes merged into other projects. Most are Helm chart bugs, each reproduced on a kind cluster before the fix.
+
+| Project | Contribution |
 | --- | --- |
-| [prod-saas-aws](https://github.com/egezamb/prod-saas-aws) | Production SaaS on AWS in Terraform — ECS Fargate, RDS, ALB, observability, cost breakdown |
-| [cloud-infrastructure](https://github.com/egezamb/cloud-infrastructure) | Case studies of production infrastructure I've built and run |
-| [spacefit](https://github.com/egezamb/spacefit) | Virtual fitting room — React + Gemini vision |
-| [ege-portfolio-2025](https://github.com/egezamb/ege-portfolio-2025) | Portfolio — Next.js, TypeScript, Tailwind, TR / PL / EN |
-| [aws-terraform-starter](https://github.com/egezamb/aws-terraform-starter) | Secure-by-default Terraform starter for AWS |
-| [TSP-sales-problem](https://github.com/egezamb/TSP-sales-problem) | Genetic algorithm for the travelling salesman problem, live visualisation |
+| [SeaweedFS](https://github.com/seaweedfs/seaweedfs)<br>![stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=flat-square&label=%E2%98%85&color=000000) | Four Helm chart fixes: [#11720](https://github.com/seaweedfs/seaweedfs/pull/11720) the first upgrade restarted the filer and the S3 gateway; [#12137](https://github.com/seaweedfs/seaweedfs/pull/12137) an unquoted number or boolean in `extraEnvironmentVars` failed the install; [#12138](https://github.com/seaweedfs/seaweedfs/pull/12138) a reinstall wrote a new filer database password; [#12139](https://github.com/seaweedfs/seaweedfs/pull/12139) user-set MySQL credentials were rendered twice and Helm 4 refused the install |
+| [OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)<br>![stars](https://img.shields.io/github/stars/LogicLabs-OU/OpenArchiver?style=flat-square&label=%E2%98%85&color=000000) | [#493](https://github.com/LogicLabs-OU/OpenArchiver/pull/493) the database password was URL-encoded twice in `DATABASE_URL` |
